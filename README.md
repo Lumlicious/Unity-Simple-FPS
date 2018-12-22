@@ -1,4 +1,4 @@
-# Unity-Simple-FPS
+# Unity-Simple-FPS (v2018.1.0b13)
 A simple FPS created in the Unity Engine for a learning exercise.
 
 Features:
